@@ -44,3 +44,25 @@ Current branch master is up to date.
 
 C:\shen\project.git\vaasm>git push
 Counting objects: 3, done.
+
+//////create a new branch//////
+
+git checkout -b poject-rep
+git checkout -b project-rep master
+
+C:\shen\project.git\vaasm>git branch
+  master
+  poject-rep
+* project-rep
+
+git add Testwebsiteproject
+
+git commit -am "new branch"
+[project-rep db3593e] new branch
+ 51 files changed, 0 insertions(+), 0 deletions(-)
+ 
+ git push --set-upstream origin project-rep
+ 
+ git push
+Everything up-to-date
+
