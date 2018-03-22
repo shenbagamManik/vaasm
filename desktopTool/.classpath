@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8"/>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="lib" path="C:/shen/externaljarfiles/poi-3.9.jar"/>
+	<classpathentry kind="lib" path="C:/shen/externaljarfiles/swingx-0.9.4.jar"/>
+	<classpathentry kind="lib" path="C:/shen/externaljarfiles/javamail-1.4.3.jar"/>
+	<classpathentry kind="lib" path="C:/shen/externaljarfiles/smtp-1.4.4.jar"/>
+	<classpathentry kind="lib" path="C:/shen/externaljarfiles/itextpdf-5.1.0.jar"/>
+	<classpathentry kind="lib" path="C:/shen/externaljarfiles/mysql-connector-java-5.1.46.jar"/>
+	<classpathentry kind="lib" path="C:/shen/externaljarfiles/mysql-connector-java-5.1.46-bin.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
